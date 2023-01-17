@@ -39,6 +39,15 @@ section#telefone{
     
 }
 
+@media screen and (max-width: 762px) {
+    
+
+    section#telefone{
+            left: 28%;
+        }
+
+}   
+
 iframe#tela{
     position: relative;
     top: 80px;
